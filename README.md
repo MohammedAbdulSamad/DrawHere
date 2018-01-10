@@ -13,4 +13,4 @@ Once a couple of finishing touches are applied, i will be looking into uploading
 
 Some Preview Screenshots (Not Final):
 
-![Alt text](relative/path/to/DrawHere - Drawing #1?raw=true "Title")
+![Alt text](relative/DrawHere/DrawHere - Drawing #1.png?raw=true "Title")
