@@ -12,6 +12,5 @@ Limitations/Thing being worked on:
 Once a couple of finishing touches are applied, i will be looking into uploading the app to Google Play Store.
 
 Some Preview Screenshots (Not Final):
-![Alt text] (/relative/DrawHere - Drawing #1.png?raw=true "Something")
 
 
