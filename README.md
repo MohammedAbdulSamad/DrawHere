@@ -7,4 +7,6 @@ Limitations/Thing being worked on:
 - Add support for larger screen sizes / tablets (7 inch +)
 - Increase undo limit from 3
 - Add support for uploading multiple images
-- Improved image maniputlation tools
+- Improve image maniputlation tools
+
+Once a couple of finishing touches are applied, i will be looking into uploading the app to Google Play Store
