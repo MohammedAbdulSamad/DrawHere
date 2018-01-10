@@ -9,4 +9,8 @@ Limitations/Thing being worked on:
 - Add support for uploading multiple images
 - Improve image maniputlation tools
 
-Once a couple of finishing touches are applied, i will be looking into uploading the app to Google Play Store
+Once a couple of finishing touches are applied, i will be looking into uploading the app to Google Play Store.
+
+Some Preview Screenshots (Not Final):
+
+
